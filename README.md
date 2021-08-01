@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diegocabrera15
+- 👋 Hi, I’m Diego Cabrera
 - 👀 I’m interested in developer web appication and apps
 - 🌱 I’m currently learning Switf and kotlin
 - 💞️ I’m looking to collaborate IT projects  
